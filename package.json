@@ -1,0 +1,29 @@
+{
+  "name": "ut_comment",
+  "version": "0.0.0",
+  "description": "Undocumented uTorrent extension to exchange comments between BitTorrent peers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reklatsmasters/ut_comment.git"
+  },
+  "keywords": [
+    "utorrent",
+    "torrent",
+    "comment",
+    "ut_comment"
+  ],
+  "author": "'Dmitry <me@reklatsmasters.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reklatsmasters/ut_comment/issues"
+  },
+  "homepage": "https://github.com/reklatsmasters/ut_comment#readme",
+  "dependencies": {
+    "bencode": "^0.7.0",
+    "inherits": "^2.0.1"
+  }
+}
